@@ -13,4 +13,4 @@ Proyek ini bertujuan untuk:
 - Memberikan rekomendasi berbasis analisis untuk mendukung keputusan operasional TransJakarta.
 
 ## Data
-Dataset yang digunakan berasal dari [Kaggle](https://www.kaggle.com/dataset) dan mencakup informasi operasional, jumlah penumpang, serta data lingkungan yang relevan.
+Dataset yang digunakan yaitu `Transjakarta.csv` berasal dari [Kaggle](https://www.kaggle.com/dataset](https://www.kaggle.com/datasets/dikisahkan/transjakarta-transportation-transaction)) dan mencakup informasi operasional, jumlah penumpang, serta data lingkungan yang relevan.
